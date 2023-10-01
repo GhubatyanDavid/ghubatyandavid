@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [FastFood Website](http://www.fastfood.somee.com/User/Default.aspx)
 
-- 🌱 I’m currently learning **Blazor,Asp .NET MVC**
+- 🌱 I’m currently learning **Blazor, Asp .NET MVC**
 
 - 📫 E-mail: [ghubatyandavid@gmail.com]
 
