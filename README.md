@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghubatyandavid&show_icons=true&locale=en" alt="ghubatyandavid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghubatyandavid&" alt="ghubatyandavid" /></p>
