@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Blazor,Asp .NET MVC**
 
 - 📫 How to reach me **My E-mail: [ghubatyandavid@gmail.com]
-- 
-- My LinkedIn: https://www.linkedin.com/in/davit-ghubatyan-b9a941247/**
+
+- ☎ My LinkedIn: https://www.linkedin.com/in/davit-ghubatyan-b9a941247/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
