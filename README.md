@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghubatyandavid&label=Profile%20views&color=0e75b6&style=flat" alt="ghubatyandavid" /> </p>
 
-- 🔭 I’m currently working on [FastFood Website](http://www.fastfood.somee.com/User/Default.aspx)
+- 🔭 I created a website:  [FastFood Website](http://www.fastfood.somee.com/User/Default.aspx)
+   
+- 🔭 I'm working on Beticus Live Casino Company
 
 - 🌱 I’m currently learning **Blazor, Asp .NET MVC**
 
